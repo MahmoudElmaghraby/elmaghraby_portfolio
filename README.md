@@ -1,17 +1,20 @@
-# portfolio
+# Mahmoud Elmaghraby | Personal Portfolio 🚀
 
-A new Flutter project.
+A modern, responsive, and minimalist personal portfolio website built from scratch using **Flutter Web**. Designed to showcase my projects, skills, and experience as a Mobile Software Engineer.
 
-## Getting Started
+## ✨ Features
+* **Fully Responsive:** Adapts seamlessly to desktop, tablet, and mobile screens using a custom constraint-based grid system.
+* **Modern UI/UX:** Dark theme implementation featuring a glassmorphism navigation bar and a custom interactive particle background.
+* **Clean Architecture:** Modular folder structure (Feature-Driven) ensuring highly maintainable and scalable code.
+* **Direct Integration:** One-click CV viewing/downloading and direct social media routing.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+* **Framework:** Flutter (Web)
+* **Language:** Dart
+* **Key Packages:** `url_launcher`, `font_awesome_flutter`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run Locally
+1. Ensure you have Flutter installed and configured for web development.
+2. Clone the repository:
+   ```bash
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
