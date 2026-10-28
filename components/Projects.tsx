@@ -15,14 +15,12 @@ export function Projects() {
         </p>
         <div className="mt-12 flex snap-x snap-mandatory gap-10 overflow-x-auto pb-6 [scrollbar-width:none] lg:grid lg:grid-cols-3 lg:overflow-visible [&::-webkit-scrollbar]:hidden">
           {projects.map((project) => {
-            const androidShot = project.id === "banzinty";
             return (
             <article key={project.id} className="w-[86vw] max-w-[300px] shrink-0 snap-center lg:w-auto lg:max-w-none">
               <IPhone15 label={project.title}>
                 <ScreenCarousel
                   images={project.images}
                   title={project.title}
-                  imageClassName={androidShot ? "object-center scale-[1.08] translate-y-[-2px]" : undefined}
                 />
               </IPhone15>
               <h3 className="mt-5 text-lg font-medium text-white">{project.title}</h3>

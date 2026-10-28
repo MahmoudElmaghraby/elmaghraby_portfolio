@@ -90,7 +90,7 @@ export const projects = [
     id: "banzinty",
     title: "Banzinty App",
     description: "App with scan & pay and real-time WebSockets.",
-    images: ["/images/banzinty.png"],
+    images: ["/images/banzinty-1.webp", "/images/banzinty-2.webp", "/images/banzinty-3.webp", "/images/banzinty-4.webp"],
     appStore: null,
     playStore: "https://play.google.com/store/apps/details?id=com.sadara.banzintyapps",
   },
