@@ -13,7 +13,7 @@ export function Navbar() {
       <nav aria-label="Primary" className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
         <a href="#top" className="flex items-center gap-2.5 font-mono text-xs tracking-[0.18em] text-white">
           <Logo />
-          <span>Mahmoud Elmaghraby <span className="text-[#10b981]">/</span> portfolio.vercel</span>
+          <span>Mahmoud Elmaghraby <span className="text-[#10b981]">/</span> Mobile Software Engineer</span>
         </a>
         <div className="hidden items-center gap-6 md:flex">
           {navLinks.map((link) => (

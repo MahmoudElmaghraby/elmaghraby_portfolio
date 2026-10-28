@@ -1,6 +1,6 @@
 export const site = {
   name: "Mahmoud Elmaghraby",
-  title: "Mahmoud Elmaghraby portfolio.vercel",
+  title: "Mahmoud Elmaghraby | Mobile Software Engineer",
   url: "https://elmaghraby-portfolio.vercel.app",
   role: "Mobile Software Engineer",
   email: "mahmoudelmaghraby515@gmail.com",

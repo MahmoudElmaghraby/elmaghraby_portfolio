@@ -2,7 +2,7 @@
 
 A sleek, high-performance developer portfolio showcasing 4+ years of expertise in cross-platform (Flutter) and native mobile app development, SaaS ERP platforms, e-commerce, and mentorship.
 
-**🌐 Live Demo**: [Mahmoud Elmaghraby portfolio.vercel](https://elmaghraby-portfolio.vercel.app)
+**🌐 Live Demo**: [elmaghraby-portfolio.vercel.app](https://elmaghraby-portfolio.vercel.app)
 
 ---
 
