@@ -4,7 +4,7 @@ export const site = {
   url: "https://elmaghraby-portfolio.vercel.app",
   role: "Mobile Software Engineer",
   email: "mahmoudelmaghraby515@gmail.com",
-  linkedin: "https://www.linkedin.com/in/mahmoud-elmaghraby",
+  linkedin: "https://www.linkedin.com/in/elmaghraby515/",
   github: "https://github.com/mahmoudelmaghraby",
   cv: "/Mahmoud-Elmaghraby-CV.pdf",
   availability: "Open for High-Impact Projects / SaaS Consulting",

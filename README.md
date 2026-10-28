@@ -58,4 +58,4 @@ npm run dev
 
 ---
 
-📩 **Contact**: [mahmoudelmaghraby515@gmail.com](mailto:mahmoudelmaghraby515@gmail.com) | [LinkedIn](https://linkedin.com/in/mahmoudmohamed515/) | [GitHub](https://github.com/MahmoudElmaghraby)
+📩 **Contact**: [mahmoudelmaghraby515@gmail.com](mailto:mahmoudelmaghraby515@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elmaghraby515/) | [GitHub](https://github.com/MahmoudElmaghraby)
