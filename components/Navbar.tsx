@@ -55,6 +55,13 @@ export function Navbar() {
               {link.label}
             </a>
           ))}
+          <a
+            href="#contact"
+            className="block py-3 font-mono text-xs tracking-[0.16em] text-[#10b981] uppercase"
+            onClick={() => setOpen(false)}
+          >
+            Contact
+          </a>
         </div>
       ) : null}
     </header>
