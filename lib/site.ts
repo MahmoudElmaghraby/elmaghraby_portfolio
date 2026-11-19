@@ -42,7 +42,7 @@ export const experience = [
     role: "Flutter Software Engineer",
     company: "SIT",
     period: "08/2026 – Present",
-    detail: "Current product engineering in Flutter.",
+    detail: "Built the Ithnain diabetes care & coaching app (patient + coach) single-handedly.",
     current: true,
   },
   {
@@ -69,6 +69,34 @@ export const experience = [
 ] as const;
 
 export const projects = [
+  {
+    id: "ithnain",
+    title: "Ithnain app",
+    subtitle: "Diabetes care & coaching platform: patient app + coach app",
+    badge: "Featured / Biggest project",
+    featured: true,
+    description:
+      "Built the entire app single-handedly, end to end: UI, backend/API integration, and third-party services. One Flutter codebase serves both patients and their diabetes coaches, in Arabic (RTL) and English.",
+    highlights: [
+      "Patient app: glucose, insulin, meal and activity logging, 14/30/90-day trends, coach matching, care packages, and session booking.",
+      "Coach app: patient medical files, schedules, per-patient reminders, session briefs, notes, and an active/archived chat inbox.",
+      "ZEGOCLOUD video/voice calls with full-screen ringing, Firestore chat with media and voice notes, and FCM push notifications.",
+      "Hands-on integration experience with PayTabs payments and Oracle OCI Object Storage over an Oracle APEX/ORDS REST backend.",
+    ],
+    stats: [
+      { value: "43", label: "Feature modules" },
+      { value: "148", label: "Screens" },
+      { value: "55", label: "Cubits" },
+      { value: "~280", label: "API endpoints" },
+      { value: "3,079", label: "AR/EN strings" },
+    ],
+    tags: ["Flutter", "Clean Architecture", "Cubit", "get_it", "go_router", "Dio", "Firebase", "ZEGOCLOUD", "PayTabs", "Oracle OCI"],
+    icon: "/images/ithnain-icon.png",
+    images: ["/images/ithnain-1.webp", "/images/ithnain-2.webp", "/images/ithnain-3.webp"],
+    appStore: null,
+    playStore: "https://play.google.com/store/apps/details?id=com.sitksa.sokkari",
+    iosStatus: "iOS release in progress",
+  },
   {
     id: "family-park",
     title: "Family Park app",

@@ -20,7 +20,7 @@ A sleek, high-performance developer portfolio showcasing 4+ years of expertise i
 
 | App Name | Description | Platform Links |
 | :--- | :--- | :--- |
-| **Family Park** | High-concurrency booking engine for a 70-acre entertainment park built with Clean Architecture & Cubit. | [App Store](https://apps.apple.com/sa/app/id6737783001) \| [Google Play](https://play.google.com/store/apps/details?id=com.sadara.familypark) |
+| **Ithnain** (biggest project) | Diabetes care & coaching platform (patient + coach apps) built single-handedly end to end: 43 feature modules, 148 screens, 55 Cubits, ~280 API endpoints, Arabic/English. ZEGOCLOUD video calls, Firestore chat, FCM, plus PayTabs and Oracle OCI Object Storage integration. | [Google Play](https://play.google.com/store/apps/details?id=com.sitksa.sokkari) (iOS in progress) || **Family Park** | High-concurrency booking engine for a 70-acre entertainment park built with Clean Architecture & Cubit. | [App Store](https://apps.apple.com/sa/app/id6737783001) \| [Google Play](https://play.google.com/store/apps/details?id=com.sadara.familypark) |
 | **Safi Mart** | Full-featured E-commerce platform with secure cart, payment gateways, Dio REST APIs, and Hive caching. | [App Store](https://apps.apple.com/sa/app/id6456607778) \| [Google Play](https://play.google.com/store/apps/details?id=com.sadara.safi) |
 | **Banzinty** | Utility & FinTech app featuring Scan & Pay, Station Locator via Google Maps SDK, and WebSockets. | [Google Play](https://play.google.com/store/apps/details?id=com.sadara.banzintyapps) |
 
