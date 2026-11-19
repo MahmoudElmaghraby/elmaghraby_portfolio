@@ -92,7 +92,7 @@ export const projects = [
     ],
     tags: ["Flutter", "Clean Architecture", "Cubit", "get_it", "go_router", "Dio", "Firebase", "ZEGOCLOUD", "PayTabs", "Oracle OCI"],
     icon: "/images/ithnain-icon.png",
-    images: ["/images/ithnain-1.webp", "/images/ithnain-2.webp", "/images/ithnain-3.webp"],
+    images: ["/images/ithnain-1.webp", "/images/ithnain-2.webp", "/images/ithnain-3.webp", "/images/ithnain-4.webp", "/images/ithnain-5.webp", "/images/ithnain-6.webp", "/images/ithnain-7.webp", "/images/ithnain-8.webp", "/images/ithnain-9.webp"],
     appStore: null,
     playStore: "https://play.google.com/store/apps/details?id=com.sitksa.sokkari",
     iosStatus: "iOS release in progress",
